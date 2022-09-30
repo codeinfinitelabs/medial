@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "@hapi/boom": "^7.4.11",
-    "@hapi/hoek": "^8.2.5",
+    "@hapi/hoek": "^9.0.4",
     "@hapi/joi": "^16.1.5"
   },
   "devDependencies": {
